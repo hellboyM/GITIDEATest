@@ -1,4 +1,4 @@
-package com.atguigu;
+package java.com.atguigu;
 
 /**
  * @author myt
