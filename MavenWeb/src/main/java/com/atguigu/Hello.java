@@ -16,6 +16,7 @@ public class Hello {
         System.out.println("远程有编辑666");
         System.out.println("远程有编辑哈哈哈");
         System.out.println(111);
+        System.out.println(888);
         System.out.println(999);
     }
 }
